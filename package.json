@@ -1,0 +1,16 @@
+{
+  "name": "nueva-carpeta",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node get_to_cart.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
